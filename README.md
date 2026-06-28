@@ -1,28 +1,230 @@
-<h1 align="center">Hi 👋, I'm Deepesh Niranjan</h1>
-<h3 align="center">A resilient developer and an ardent programmer.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **learning and grinding.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deepesh%20Kumar%20Niranjan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Data%20Pipelines&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-- 🌱 I’m currently learning **Front-end (Advance).**
+</div>
 
-- 👯 I’m looking to collaborate on **web projects.**
+<div align="center">
 
-- 📫 How to reach me **deepeshniranjan@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&lines=Data+Engineer+%7C+2.5%2B+Years+Experience;SQL+%7C+Python+%7C+PySpark+%7C+Kafka+%7C+Spark;Databricks+%7C+Snowflake+%7C+Azure+%7C+Airflow;Building+ETL+%2F+ELT+Pipelines+at+Scale;Event-Driven+Systems+with+Apache+Kafka;Data+Quality+%7C+Validation+%7C+Reconciliation)](https://git.io/typing-svg)
 
-- ⚡ Fun fact **I think I am passionate for my work.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/younginfelicity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="younginfelicity" height="30" width="40" /></a>
- <a href="https://instagram.com/deepesh_828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepesh_828" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepesh-niranjan-1924171ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepeshniranjan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepeshniranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepeshniranjan" height="30" width="40" /></a>
+---
+
+<div align="center">
+
+## 🙋‍♂️ Hi, I'm Deepesh
+
+</div>
+
+<img align="right" width="340" src="https://raw.githubusercontent.com/deepeshNiranjan28Bit/deepeshNiranjan28Bit/main/assets/data-engineer.gif" alt="Data Engineering Animation" onerror="this.style.display='none'"/>
+
+```python
+deepesh = {
+    "name"       : "Deepesh Kumar Niranjan",
+    "role"       : "Data Engineer @ Jio Platforms Limited",
+    "location"   : ["Mumbai", "Gurugram", "India"],
+    "experience" : "2.5+ Years",
+    "email"      : "deepeshniranjan@gmail.com",
+    "focus"      : [
+        "Scalable ETL / ELT Pipelines",
+        "Data Quality & Validation Frameworks",
+        "Event-Driven Architectures (Kafka)",
+        "Cloud Data Platforms (Azure, Databricks, Snowflake)",
+        "Warehouse-Ready Data Modeling",
+    ],
+    "currently"  : "Open to Data Engineering opportunities 🚀",
+}
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### ⚡ Big Data & Streaming
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepeshniranjan28bit&show_icons=true&locale=en&layout=compact" alt="deepeshniranjan28bit" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshniranjan28bit&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshniranjan28bit" /> </p>
+### ☁️ Cloud & Data Platforms
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshniranjan28bit&show_icons=true&locale=en" alt="deepeshniranjan28bit" /></p>
+### 🗄️ Databases & Analytics
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### 🔧 Data Engineering & ETL
+<p>
+  <img src="https://img.shields.io/badge/ETL%2FELT_Pipelines-6C63FF?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Validation-00C49F?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Quality-FF6B6B?style=for-the-badge&logo=statuspage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reconciliation-845EC2?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Warehousing-0066CC?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
+
+### 🚀 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### 🤖 AI & Modern Stack
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Applications-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLaMA-FF6B6B?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-00897B?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Professional Experience
+
+<table width="100%">
+  <tr>
+    <td width="60px" align="center">
+      <img src="https://img.shields.io/badge/JPL-0078D4?style=for-the-badge&logo=jio&logoColor=white" height="30"/>
+    </td>
+    <td>
+      <strong>Jio Platforms Limited</strong> — Software Engineer / Data Engineering Workflows<br/>
+      📍 Gurugram, India &nbsp;|&nbsp; 🗓️ Dec 2023 – Present &nbsp;|&nbsp; ⏱️ 2.5+ Years<br/>
+      <em>ETL/ELT Pipelines · Kafka Event Processing · SQL Validation · PySpark · Databricks · Snowflake · Azure</em>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="60px" align="center">
+      <img src="https://img.shields.io/badge/HR-6C63FF?style=for-the-badge&logo=databricks&logoColor=white" height="30"/>
+    </td>
+    <td>
+      <strong>HighRadius</strong> — Software Development Intern<br/>
+      📍 Remote &nbsp;|&nbsp; 🗓️ Jan 2022 – Apr 2022<br/>
+      <em>Python · SQL · REST APIs · ML Integration · Fintech Payment Prediction</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 Vendor Access & Broadcasting Data Pipeline</h3>
+      <p>Enterprise ETL pipeline for vendor-facing broadcasting workflows — SQL-driven validation, Kafka event processing, schema checks, reconciliation, and warehouse-ready reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Offline AI Document Intelligence System</h3>
+      <p>Offline enterprise document retrieval with hybrid BM25 + FAISS vector search, LLaMA-powered response generation — fully air-gapped, no internet dependency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FAISS-00897B?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLaMA-FF6B6B?style=flat-square&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepeshNiranjan28Bit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshNiranjan28Bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshNiranjan28Bit&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="60%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepeshNiranjan28Bit&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepeshNiranjan28Bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%"/>
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+```
+🔭  Actively looking for Data Engineer roles at product / fintech / SaaS companies
+⚡  Deepening expertise in Databricks, Snowflake, and streaming architectures
+📚  Practicing SQL optimization, PySpark transformations, and system design
+🌍  Open to: Remote India | Gurugram | Mumbai | Pune | Bangalore | Hyderabad
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepeshniranjan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepeshniranjan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepeshNiranjan28Bit)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepeshNiranjan28Bit&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
